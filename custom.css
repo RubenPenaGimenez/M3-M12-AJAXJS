@@ -1,0 +1,145 @@
+  .caja {
+            position: -webkit-sticky;
+            position: sticky;
+
+        }
+
+        .wrapper {
+            width: auto;
+            margin: 0 auto;
+        }
+
+        header {
+            height: 100px;
+            background: black;
+            width: 100%;
+            z-index: 12;
+
+        }
+
+        .logo {
+            display: flex;
+        }
+
+        .logo a {
+            text-decoration: none;
+            font-size: 20px;
+            font-family: Raleway;
+            color: #fff;
+        }
+
+        .menuarriba {
+            padding: 30px;
+            position: -webkit-sticky;
+            position: sticky;
+            font-family: Raleway;
+            font-weight: bolder;
+        } .menuarriba:hover {
+            font-size: 25px;
+            text-decoration: none;
+            font-family: Oswald;
+            color: #D4900B;
+            letter-spacing: 1.5px;
+        }
+
+        .proudumueblePag {
+            height: auto;
+            background-color: rgba(1, 1, 10, 0.836);
+        }
+
+        .reformasTitulo {
+            text-align: center;
+            background-color: rgb(0, 0, 0);
+            color: white;
+            padding: 20px;
+            font-size: 50px;
+            font-weight: bolder;
+            border: solid 2px white;
+            font-family: Raleway;
+        }
+
+        .reformaBasica {
+            width: 450px;
+            height: 600px;
+            background-color: rgba(128, 128, 128, 0.705);
+            text-align: center;
+            padding: 20px;
+            margin: 5rem;
+            border: solid 2px white;
+            font-family: Raleway;
+        }
+
+        .serviciosOfrecidos {
+            width: fit-content;
+            height: fit-content;
+            background-color: rgba(255, 128, 128, 0.705);
+            text-align: center;
+            padding: 20px;
+            margin: 7rem;
+            border: solid 2px white;
+            font-family: Raleway;
+        }
+
+        h1 {
+            color: white;
+            font-weight: bolder;
+            border: solid 2px white;
+            padding: 15px;
+            background-color: black;
+        }
+
+        .produmueblePag1 {
+            color: white;
+            text-align: center;
+            font-size: 50px;
+            font-weight: bolder;
+            font-family: Raleway;
+            background-image: url("https://obrasyreformasvera.com/wp-content/uploads/2019/10/reforma-vivienda-gran-via-8-1030x687.jpg");
+            height: 50vw;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+            background-attachment: fixed;
+            background-size: cover;
+
+        }
+
+        .produmueblePage {
+            background-color: rgba(29, 27, 27, 0.945);
+        }
+
+        .tituloProdumueblePag {
+            padding: 30px;
+            border: white solid 4px;
+            background-color: rgba(0, 0, 0, 0.295);
+
+        }
+
+        .row{
+            margin: 10px;
+        }
+
+        .imagenRow{
+            padding: 20px;
+            width: auto;
+            height: auto;
+            margin: auto;
+            display: block;
+        }
+        
+        .textoLorem{
+            font-size: 37px;
+            text-align: justify;
+            font-family: Raleway;
+        }
+
+        .serviciosofrecidos{
+            width: 450px;
+            height: 600px;
+            background-color: #666565;
+            text-align: center;
+            padding: 20px;
+            margin: 5rem;
+            border: solid 2px white;
+            font-family: Raleway;
+        }
